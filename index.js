@@ -1,5 +1,7 @@
 let divide = () => {
-    return 2000 / 100 
+    let x = 2000
+    let y = 100
+    return x / y
 }
 
 let square = () => {
